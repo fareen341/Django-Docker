@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def Home(request):
-    return HttpResponse("Hello world from django with CI/CD pipeline v1.1!!")
+    return HttpResponse("Hello world from django with CI/CD pipeline v1.2!!")
